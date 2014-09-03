@@ -1,5 +1,5 @@
 === My Custom Functions ===
-Contributors: arthur_gareginyan
+Contributors: Arthur Gareginyan
 Tags: code, php, function, snippet, custom, execute
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JG3SB73K86FA8
 Requires at least: 3.9
