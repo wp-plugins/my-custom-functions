@@ -32,7 +32,7 @@ This is a perfect tool to use as your site's functionality plugin.
 * Syntax checking (SyntaxHighlighter in the field).
 (Got more ideas? Tell me!)
 
-For more details please visit - [Dedicated Plugin Page](http://mycyberuniverse.com/my_programs/wp-plugin-my-custom-functions.html‎)
+For more details please visit - [Dedicated Plugin Page](http://mycyberuniverse.com/my_programs/wp-plugin-my-custom-functions.html)
 
 **Please Vote and Enjoy**
 * Your votes really make a difference! Thanks.
