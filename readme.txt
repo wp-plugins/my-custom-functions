@@ -39,10 +39,10 @@ For more details please visit - [Dedicated Plugin Page](http://mycyberuniverse.c
 
 == Installation ==
 Install Anarcho Custom Functions just as you would any other WP Plugin:
-1. Upload "my-custom-functions" to the "/wp-content/plugins/" directory.
-1. Activate the plugin through the "Plugins" menu in WordPress.
-1. Goto "Appearance" -> "Custom Functions".
-1. Add your code in the field, then click "Update Custom Functions".
+1. Upload "my-custom-functions" to the "/wp-content/plugins/" directory.,
+2. Activate the plugin through the "Plugins" menu in WordPress.,
+3. Goto "Appearance" -> "Custom Functions".,
+4. Add your code in the field, then click "Update Custom Functions".
 That’s it. You are already getting your functions working.
 
 [More help installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins "WordPress Codex: Installing Plugins")
