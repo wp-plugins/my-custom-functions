@@ -23,7 +23,7 @@ And your website will keep on working, no matter how many times you upgrade or s
 This is a perfect tool to use as your site's functionality plugin.
 
 
-**Features**
+= Features =
 
 **Current features:**
 
