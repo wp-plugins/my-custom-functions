@@ -38,7 +38,8 @@ This is a perfect tool to use as your site's functionality plugin.
 For more details please visit - [Dedicated Plugin Page](http://mycyberuniverse.com/my_programs/wp-plugin-my-custom-functions.html)
 
 **Please Vote and Enjoy**
-Your votes really make a difference! Thanks.
+
+* Your votes really make a difference! Thanks.
 
 == Installation ==
 Install Anarcho Custom Functions just as you would any other WP Plugin:
