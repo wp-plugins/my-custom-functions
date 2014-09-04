@@ -83,6 +83,7 @@ and is distributed free of charge.
 Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
 
 **Support**
+
 * Did you enjoy this plugin? Please [donate to support ongoing development](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JG3SB73K86FA8). Your contribution would be greatly appreciated.
 * Do you have any ideas or suggestions to make the plugin better? I can’t wait to hear them! Please share! [Dedicated Plugin Page](http://mycyberuniverse.com/my_programs/wp-plugin-my-custom-functions.html)
 
@@ -90,6 +91,7 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 * Your votes really make a difference! Thanks.
 
 **Links**
+
 * [Developer Website](http://mycyberuniverse.com)
 * [Dedicated Plugin Page](http://mycyberuniverse.com/my_programs/wp-plugin-my-custom-functions.html)
 
