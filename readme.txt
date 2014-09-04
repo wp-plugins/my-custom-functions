@@ -89,6 +89,7 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 * Do you have any ideas or suggestions to make the plugin better? I can’t wait to hear them! Please share! [Dedicated Plugin Page](http://mycyberuniverse.com/my_programs/wp-plugin-my-custom-functions.html)
 
 **Please Vote and Enjoy**
+
 * Your votes really make a difference! Thanks.
 
 **Links**
