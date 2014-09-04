@@ -39,7 +39,7 @@ For more details please visit - [Dedicated Plugin Page](http://mycyberuniverse.c
 
 **Please Vote and Enjoy**
 
-* Your votes really make a difference! Thanks.
+Your votes really make a difference! Thanks.
 
 == Installation ==
 Install Anarcho Custom Functions just as you would any other WP Plugin:
