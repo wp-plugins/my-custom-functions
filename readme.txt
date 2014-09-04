@@ -27,20 +27,22 @@ This is a perfect tool to use as your site's functionality plugin.
 **Current features:**
 
 * Safety execution code (Checks the entered code for fatal errors).
-
 * Ready for translation.
 
 **Coming soon:**
+
 * Syntax checking (SyntaxHighlighter in the field).
 (Got more ideas? Tell me!)
 
 For more details please visit - [Dedicated Plugin Page](http://mycyberuniverse.com/my_programs/wp-plugin-my-custom-functions.html)
 
 **Please Vote and Enjoy**
+
 * Your votes really make a difference! Thanks.
 
 == Installation ==
 Install Anarcho Custom Functions just as you would any other WP Plugin:
+
 1. Upload "my-custom-functions" to the "/wp-content/plugins/" directory.,
 2. Activate the plugin through the "Plugins" menu in WordPress.,
 3. Goto "Appearance" -> "Custom Functions".,
