@@ -25,7 +25,9 @@ This is a perfect tool to use as your site's functionality plugin.
 
 **Features**
 **Current features:**
+
 * Safety execution code (Checks the entered code for fatal errors).
+
 * Ready for translation.
 
 **Coming soon:**
