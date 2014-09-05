@@ -20,7 +20,7 @@ No any more “Fatal error”. These codes will run safely and will not generate
 
 And your website will keep on working, no matter how many times you upgrade or switch your theme.
 
-This is a perfect tool to use as your site's functionality plugin.
+This is a simple and perfect tool to use as your site's functionality plugin.
 
 
 = Features =
