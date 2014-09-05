@@ -2,7 +2,7 @@
 /**
  * Plugin Name: My Custom Functions
  * Plugin URI: http://mycyberuniverse.com/my_programs/wp-plugin-my-custom-functions.html ‎
- * Description: This is an awesome custom plugin with functionality that I'd like to keep when switching things.
+ * Description: EASILY and SAFELY add your own functions, snippets or any custom codes directly out of your WordPress Admin Panel without need of an external editor.
  * Author: Arthur "Berserkr" Gareginyan
  * Author URI: http://mycyberuniverse.com/author.html
  * Version: 1.0
