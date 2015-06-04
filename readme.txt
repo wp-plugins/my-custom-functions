@@ -100,6 +100,8 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 
 == Changelog ==
+= 1.1 =
+* Fixed positioning of the sidebar at the plugin page.
 = 1.0 =
 * Initial release.
 * Added the check for safety execution code.
