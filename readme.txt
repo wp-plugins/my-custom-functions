@@ -3,8 +3,8 @@ Contributors: Arthur Gareginyan
 Tags: code, php, function, snippet, custom, execute
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JG3SB73K86FA8
 Requires at least: 3.9
-Tested up to: 4.0
-Stable tag: 1.0
+Tested up to: 4.2
+Stable tag: 1.1
 License: GPL3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
