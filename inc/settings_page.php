@@ -44,7 +44,7 @@ function anarcho_cfunctions_render_submenu_page() {
 		<form name="anarcho_cfunctions-form" action="options.php" method="post" enctype="multipart/form-data">
 			<?php settings_fields( 'anarcho_cfunctions_settings_group' ); ?>
 			<!-- Sidebar -->
-			 <div id="templateside">
+			 <div id="templateside" style="position:fixed; right:20px;">
 				<?php do_action( 'anarcho_cfunctions-sidebar-top' ); ?>
 				<p style="margin-top: 0">
 					<?php _e( 'This plugin allows you to EASILY and SAFELY add your own functions, snippets or any custom code to your site.', 'anarcho_cfunctions' ) ?>
@@ -68,9 +68,6 @@ function anarcho_cfunctions_render_submenu_page() {
 					<textarea cols="70" rows="30" name="anarcho_cfunctions_settings[anarcho_cfunctions-content]" id="anarcho_cfunctions_settings[anarcho_cfunctions-content]" ><?php echo esc_attr( $content ); ?></textarea>
 				</div>
 				<?php do_action( 'anarcho_cfunctions-textarea-bottom' ); ?>
-				<div>
-					<?php submit_button( __( 'Update Custom Functions', 'anarcho_cfunctions' ), 'primary', 'submit', true ); ?>
-				</div>
 				<?php do_action( 'anarcho_cfunctions-form-bottom' ); ?>
 			 </div>
                         <!-- END-Form -->
