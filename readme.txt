@@ -113,6 +113,8 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 
 == Upgrade Notice ==
+= 1.1 =
+Fixed positioning of the sidebar at the plugin page.
 = 1.0 =
 Please update to first stable relise! Added the check for safety execution code.
 = 0.2 =
