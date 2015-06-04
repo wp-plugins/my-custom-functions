@@ -40,7 +40,7 @@ function anarcho_cfunctions_render_submenu_page() {
 	// Page
 	?>
 	   <div class="wrap">
-		<h2 style="margin-bottom: 1em;"><?php _e( 'My Custom Functions', 'anarcho_cfunctions' ); ?></h2>
+		<h2 style="text-align:center; color:cornflowerblue;"><?php _e( 'My Custom Functions', 'anarcho_cfunctions' ); ?></h2>
 		<form name="anarcho_cfunctions-form" action="options.php" method="post" enctype="multipart/form-data">
 			<?php settings_fields( 'anarcho_cfunctions_settings_group' ); ?>
 			<!-- Sidebar -->
