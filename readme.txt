@@ -4,7 +4,7 @@ Tags: code, php, function, snippet, custom, execute
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JG3SB73K86FA8
 Requires at least: 3.9
 Tested up to: 4.2
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPL3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -28,11 +28,12 @@ This is a simple and perfect tool to use as your site's functionality plugin.
 **Current features:**
 
 * Safety execution code (Checks the entered code for fatal errors).
+* Syntax highlighting (by CodeMirror).
+* Line numbering.
 * Ready for translation.
 
 **Coming soon:**
 
-* Syntax highlighting.
 * (Got more ideas? Tell me!)
 
 For more details please visit - [Dedicated Plugin Page](http://mycyberuniverse.com/my_programs/wp-plugin-my-custom-functions.html)
@@ -100,6 +101,8 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 
 == Changelog ==
+= 1.2 =
+* Added the syntax highlighting and line numbering.
 = 1.1 =
 * Fixed positioning of the sidebar at the plugin page.
 = 1.0 =
@@ -113,6 +116,8 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 
 == Upgrade Notice ==
+= 1.2 =
+Added the syntax highlighting and line numbering.
 = 1.1 =
 Fixed positioning of the sidebar at the plugin page.
 = 1.0 =
