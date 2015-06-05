@@ -10,7 +10,7 @@
  * Text Domain: anarcho_cfunctions
  * Domain Path: /languages/
  *
- * Copyright 2014  Arthur "Berserkr" Gareginyan  (email : arthurgareginyan@gmail.com)
+ * Copyright 2014-2015  Arthur "Berserkr" Gareginyan  (email : arthurgareginyan@gmail.com)
  *
  * This file is part of "My Custom Functions".
  *
