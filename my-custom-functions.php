@@ -87,6 +87,27 @@ function anarcho_cfunctions_register_settings() {
 add_action( 'admin_init', 'anarcho_cfunctions_register_settings' );
 
 /**
+ * Enqueue the CodeMirror scripts and styles
+ *
+ * @since 1.2
+ */
+function anarcho_enqueue_codemirror_scripts($hook) {
+    if ( 'appearance_page_my-custom-functions' != $hook ) {
+        return;
+    }
+
+    wp_enqueue_script('codemirror', plugin_dir_url(__FILE__) . 'inc/codemirror/lib/codemirror.js');
+    wp_enqueue_script('codemirror_xml', plugin_dir_url(__FILE__) . 'inc/codemirror/mode/xml.js');
+    wp_enqueue_script('codemirror_javascript', plugin_dir_url(__FILE__) . 'inc/codemirror/mode/javascript.js');
+    wp_enqueue_script('codemirror_css', plugin_dir_url(__FILE__) . 'inc/codemirror/mode/css.js');
+    wp_enqueue_script('codemirror_htmlmixed', plugin_dir_url(__FILE__) . 'inc/codemirror/mode/htmlmixed.js');
+    wp_enqueue_script('codemirror_clike', plugin_dir_url(__FILE__) . 'inc/codemirror/mode/clike.js');
+    wp_enqueue_script('codemirror_php', plugin_dir_url(__FILE__) . 'inc/codemirror/mode/php.js');
+    wp_enqueue_style('codemirror_style', plugin_dir_url(__FILE__) . 'inc/codemirror/lib/codemirror.css');
+}
+add_action( 'admin_enqueue_scripts', 'anarcho_enqueue_codemirror_scripts' );
+
+/**
  * Execute My Custom Functions
  *
  * @since 1.0

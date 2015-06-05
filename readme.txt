@@ -28,11 +28,11 @@ This is a simple and perfect tool to use as your site's functionality plugin.
 **Current features:**
 
 * Safety execution code (Checks the entered code for fatal errors).
+* Syntax highlighting (CodeMirror).
 * Ready for translation.
 
 **Coming soon:**
 
-* Syntax highlighting.
 * (Got more ideas? Tell me!)
 
 For more details please visit - [Dedicated Plugin Page](http://mycyberuniverse.com/my_programs/wp-plugin-my-custom-functions.html)
@@ -100,6 +100,8 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 
 == Changelog ==
+= 1.2 =
+* Added the syntax highlighter.
 = 1.1 =
 * Fixed positioning of the sidebar at the plugin page.
 = 1.0 =
@@ -113,6 +115,8 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 
 == Upgrade Notice ==
+= 1.2 =
+Added the syntax highlighter.
 = 1.1 =
 Fixed positioning of the sidebar at the plugin page.
 = 1.0 =
