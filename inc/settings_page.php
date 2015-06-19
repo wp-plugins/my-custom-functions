@@ -41,7 +41,7 @@ function anarcho_cfunctions_render_submenu_page() {
 	?>
 	   <div class="wrap">
 		<h2 style="text-align:center; color:cornflowerblue;"><?php _e( 'My Custom Functions', 'anarcho_cfunctions' ); ?></h2>
-                <h3 style="text-align:center; margin-top:1px; font-size:1.0em;"><?php _e( 'by Arthur (Berserkr) Gareginyan', 'anarcho_cfunctions' ); ?></h3>
+                <h3 style="text-align:center; margin-top:1px; font-size:1.0em;"><?php _e( 'by Arthur "Berserkr" Gareginyan', 'anarcho_cfunctions' ); ?></h3>
 		<form name="anarcho_cfunctions-form" action="options.php" method="post" enctype="multipart/form-data">
 			<?php settings_fields( 'anarcho_cfunctions_settings_group' ); ?>
 			<!-- Sidebar -->
