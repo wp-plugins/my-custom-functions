@@ -8,11 +8,11 @@ Stable tag: 1.2
 License: GPL3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-EASILY and SAFELY add your own functions, snippets or any custom codes directly out of your WordPress Admin Panel without need of an external editor.
+EASILY and SAFELY add your own functions, snippets or any custom codes directly out of your WordPress Dashbord without need of an external editor.
 
 
 == Description ==
-An easy to use WordPress plugin that lets you EASILY and SAFELY add your own functions, snippets or any custom codes for execution in WordPress environment directly out of your WordPress Admin Panel without any need of an external editor. 
+An easy to use WordPress plugin that lets you EASILY and SAFELY add your own functions, snippets or any custom codes for execution in WordPress environment directly out of your WordPress Dashbord without any need of an external editor. 
 
 It’s purpose is to provide a familiar experience to WordPress users. No need any more editing the functions.php file of your theme. Just add your code in the field on the page and this plugin will do the rest for you.
 
