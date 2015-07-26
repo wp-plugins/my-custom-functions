@@ -40,8 +40,13 @@ function anarcho_cfunctions_render_submenu_page() {
 	// Page
 	?>
 	   <div class="wrap">
-		<h2 style="text-align:center; color:cornflowerblue;"><?php _e( 'My Custom Functions', 'anarcho_cfunctions' ); ?></h2>
-                <h3 style="text-align:center; margin-top:1px; font-size:1.0em;"><?php _e( 'by Arthur "Berserkr" Gareginyan', 'anarcho_cfunctions' ); ?></h3>
+                <h2 style="text-align:center; color:cornflowerblue;">
+                        <?php _e( 'My Custom Functions', 'anarcho_cfunctions' ); ?>
+                        <br/>
+                        <span style="margin-top:1px; font-size:0.6em; color: black;">
+                                <?php _e( 'by <a href="http://mycyberuniverse.com/author.html" target="_blank" style="display:inline; padding:0;">Arthur "Berserkr" Gareginyan</a>', 'anarcho_cfunctions' ); ?>
+                        <span/>
+                </h2>
 		<form name="anarcho_cfunctions-form" action="options.php" method="post" enctype="multipart/form-data">
 			<?php settings_fields( 'anarcho_cfunctions_settings_group' ); ?>
 			<!-- Sidebar -->
