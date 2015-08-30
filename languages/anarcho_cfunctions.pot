@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "Project-Id-Version: My Custom Functions\n"
-"POT-Creation-Date: 2015-08-30 17:18+0300\n"
+"POT-Creation-Date: 2015-08-30 17:32+0300\n"
 "PO-Revision-Date: 2015-08-30 16:22+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -75,7 +75,7 @@ msgstr ""
 #. Description of the plugin/theme
 msgid ""
 "EASILY and SAFELY add your own functions, snippets or any custom codes "
-"directly out of your WordPress Dashbord without need of an external editor."
+"directly out of your WordPress Dashboard without need of an external editor."
 msgstr ""
 
 #. Author of the plugin/theme
