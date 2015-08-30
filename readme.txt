@@ -29,11 +29,12 @@ This is a simple and perfect tool to use as your site's functionality plugin.
 
 * Safety execution code (Checks the entered code for fatal errors).
 * Syntax highlighting (by CodeMirror).
-* Line numbering.
-* Ready for translation.
+* Line numbering (by CodeMirror).
+* Ready for translation (.pot file included).
 
 **Coming soon:**
 
+* Trigger to temporary disable the custom code.
 * (Got more ideas? Tell me!)
 
 For more details please visit - [Dedicated Plugin Page](http://mycyberuniverse.com/my_programs/wp-plugin-my-custom-functions.html)
