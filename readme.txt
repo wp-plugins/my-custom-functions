@@ -131,6 +131,6 @@ Added the syntax highlighting and line numbering.
 = 1.1 =
 Fixed positioning of the sidebar at the plugin page.
 = 1.0 =
-Please update to first stable relise! Added the check for safety execution code.
+Please update to first stable release! Added the check for safety execution code.
 = 0.2 =
 Please update to beta version.
