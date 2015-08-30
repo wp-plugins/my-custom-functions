@@ -5,7 +5,7 @@
  * Description: EASILY and SAFELY add your own functions, snippets or any custom codes directly out of your WordPress Dashbord without need of an external editor.
  * Author: Arthur "Berserkr" Gareginyan
  * Author URI: http://mycyberuniverse.com/author.html
- * Version: 1.2
+ * Version: 1.3
  * License: GPL3
  * Text Domain: anarcho_cfunctions
  * Domain Path: /languages/
