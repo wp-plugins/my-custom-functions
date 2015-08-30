@@ -43,13 +43,24 @@ For more details please visit - [Dedicated Plugin Page](http://mycyberuniverse.c
 * Your votes really make a difference! Thanks.
 
 == Installation ==
-Install "My Custom Functions" just as you would any other WP Plugin. “My Custom Functions” is most easily installed automatically via the Plugins tab in WordPress Dashboard of your website. Or you can install it manual:
+Install "My Custom Functions" just as you would any other WP Plugin.
 
-1. Upload "my-custom-functions" to the "/wp-content/plugins/" directory.
-2. Unzip and upload all the files to the "/wp-content/plugins/my-custom-functions/" folder on your server.
-3. Activate the plugin through the "Plugins" menu in WordPress Dashboard.
+Automatically via WordPress:
 
-After installation, a "Custom Functions”  menu item will appear in the “Appearance" section. Click on this in order to view plugin's administration page.
+1. Log into WordPress Dashboard of your website.
+2. Go to "Plugins" —> “add new plugins".
+3. Find this plugin and click install.
+4. Activate this plugin through the "Plugins" tab.
+
+Manual via FTP:
+
+1. Download a copy (zip file) of this plugin from WordPress.org.
+2. Unzip the zip file.
+3. Upload the unzipped directory to your website's plugin directory (/wp-content/plugins/).
+4. Log into WordPress Dashboard of your website.
+5. Activate this plugin through the "Plugins" tab.
+
+After installation, a "Custom Functions” menu item will appear in the “Appearance" section. Click on this in order to view plugin's administration page.
 
 [More help installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins "WordPress Codex: Installing Plugins")
 
