@@ -30,6 +30,7 @@ This is a simple and perfect tool to use as your site's functionality plugin.
 * Safety execution code (Checks the entered code for fatal errors).
 * Syntax highlighting (by CodeMirror).
 * Line numbering (by CodeMirror).
+* Input areas allow for tab indentation.
 * Ready for translation (.pot file included).
 
 **Coming soon:**
@@ -69,6 +70,9 @@ After installation, a "Custom Functions” menu item will appear in the “Appea
 == Frequently Asked Questions ==
 = Will this Plugin work on my WordPress.com website? =
 Sorry, this plugin is available for use only on self-hosted (WordPress.org) websites.
+
+= How much of PHP code (characters) I can enter in the text field? =
+I don't limit the number of characters.
 
 = Can I use this plugin on my language? =
 Yes. But If your language is not available then you can make one. This plugin is ready for translation. The .pot file is included and placed in "languages" folder. Many of plugin users would be delighted if you shared your translation with the community. Just send the translation files (*.po, *.mo) to me at the arthurgareginyan@gmail.com and I will include the translation within the next plugin update.
