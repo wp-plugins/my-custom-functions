@@ -15,7 +15,7 @@ function anarcho_cfunctions_render_submenu_page() {
 	// Variables
 	$options = get_option( 'anarcho_cfunctions_settings' );
 	$content = isset( $options['anarcho_cfunctions-content'] ) && ! empty( $options['anarcho_cfunctions-content'] ) ? $options['anarcho_cfunctions-content'] : '/* Enter Your Custom Functions Here */';
-        $error = get_option( 'anarcho_cfunctions_error' );
+    $error = get_option( 'anarcho_cfunctions_error' );
 
 	// Settings update message
 	if ( isset( $_GET['settings-updated'] ) ) :
@@ -42,17 +42,17 @@ function anarcho_cfunctions_render_submenu_page() {
 
 	// Page
 	?>
-	   <div class="wrap">
-                <h2 style="text-align:center; color:cornflowerblue;">
-                        <?php _e( 'My Custom Functions', 'anarcho_cfunctions' ); ?>
-                        <br/>
-                        <span style="margin-top:1px; font-size:0.6em; color: black;">
-                                <?php _e( 'by <a href="http://mycyberuniverse.com/author.html" target="_blank" style="display:inline; padding:0;">Arthur "Berserkr" Gareginyan</a>', 'anarcho_cfunctions' ); ?>
-                        <span/>
-                </h2>
+    <div class="wrap">
+        <h2 style="text-align:center; color:cornflowerblue;">
+            <?php _e( 'My Custom Functions', 'anarcho_cfunctions' ); ?>
+            <br/>
+            <span style="margin-top:1px; font-size:0.6em; color: black;">
+                <?php _e( 'by <a href="http://mycyberuniverse.com/author.html" target="_blank" style="display:inline; padding:0;">Arthur "Berserkr" Gareginyan</a>', 'anarcho_cfunctions' ); ?>
+            <span/>
+        </h2>
 		<form name="anarcho_cfunctions-form" action="options.php" method="post" enctype="multipart/form-data">
 			<?php settings_fields( 'anarcho_cfunctions_settings_group' ); ?>
-			<!-- Sidebar -->
+			<!-- SIDEBAR -->
 			 <div id="templateside" style="position:fixed; right:20px;">
 				<?php do_action( 'anarcho_cfunctions-sidebar-top' ); ?>
 				<p style="margin-top: 0">
@@ -62,15 +62,15 @@ function anarcho_cfunctions_render_submenu_page() {
 					<?php _e( 'To use, enter your custom functions, then click "Update Custom Functions". It\'s that simple!', 'anarcho_cfunctions' ) ?>
 				</p>
 				<?php submit_button( __( 'Update Custom Functions', 'anarcho_cfunctions' ), 'primary', 'submit', true ); ?>
-                                <p style="margin-top:20px; border:1px solid rgb(184, 186, 184); border-radius:5px; padding:3px; text-align:center; background:rgb(234, 234, 234);">If you find it useful, consider making a donation:
-                                        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JG3SB73K86FA8" target="_blank" rel="nofollow">
-                                                <img src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Make a donation">
-                                        </a>
-                                </p>
+                <p style="margin-top:20px; border:1px solid rgb(184, 186, 184); border-radius:5px; padding:3px; text-align:center; background:rgb(234, 234, 234);">If you find it useful, consider making a donation:
+                    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JG3SB73K86FA8" target="_blank" rel="nofollow">
+                        <img src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Make a donation">
+                    </a>
+                </p>
 				<?php do_action( 'anarcho_cfunctions-sidebar-bottom' ); ?>
 			 </div>
-                        <!-- END-Sidebar -->
-                        <!-- Form -->
+            <!-- END-SIDEBAR-->
+            <!-- FORM -->
 			<div id="container" style="margin-right:210px;">
 				<?php do_action( 'anarcho_cfunctions-form-top' ); ?>
 				<div>
@@ -93,7 +93,7 @@ function anarcho_cfunctions_render_submenu_page() {
 					height: auto;
 				}
 			</style>
-                        <!-- END-Form -->
+            <!-- END-FORM -->
 		</form>
 	   </div>
 	<?php
