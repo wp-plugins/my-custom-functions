@@ -14,7 +14,9 @@ function anarcho_cfunctions_render_submenu_page() {
 
 	// Variables
 	$options = get_option( 'anarcho_cfunctions_settings' );
-	$content = isset( $options['anarcho_cfunctions-content'] ) && ! empty( $options['anarcho_cfunctions-content'] ) ? $options['anarcho_cfunctions-content'] : '/* Enter Your Custom Functions Here */';
+	$content = isset( $options['anarcho_cfunctions-content'] ) && ! empty( $options['anarcho_cfunctions-content'] ) ? $options['anarcho_cfunctions-content'] : '<?php
+
+/* Enter Your Custom Functions Here */';
     $error = get_option( 'anarcho_cfunctions_error' );
 
 	// Settings update message
