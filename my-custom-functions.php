@@ -2,12 +2,12 @@
 /**
  * Plugin Name: My Custom Functions
  * Plugin URI: http://mycyberuniverse.com/my_programs/wp-plugin-my-custom-functions.html ‎
- * Description: EASILY and SAFELY add your own functions, snippets or any custom codes directly out of your WordPress Dashbord without need of an external editor.
+ * Description: EASILY and SAFELY add your own functions, snippets or any custom codes directly out of your WordPress Dashboard without need of an external editor.
  * Author: Arthur "Berserkr" Gareginyan
  * Author URI: http://mycyberuniverse.com/author.html
- * Version: 1.2
+ * Version: 1.3
  * License: GPL3
- * Text Domain: anarcho_cfunctions
+ * Text Domain: mcfunctions
  * Domain Path: /languages/
  *
  * Copyright 2014-2015  Arthur "Berserkr" Gareginyan  (email : arthurgareginyan@gmail.com)
@@ -29,6 +29,9 @@
  *
  */
 
+/**
+ * Prevent Direct Access
+ */
 defined('ABSPATH') or die("Restricted access!");
 
 /**
