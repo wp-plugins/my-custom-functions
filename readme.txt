@@ -115,6 +115,7 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 == Changelog ==
 = 1.3 =
+* .pot file included.
 * Minor fixes.
 = 1.2 =
 * Added the syntax highlighting and line numbering.
