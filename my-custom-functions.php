@@ -7,7 +7,7 @@
  * Author URI: http://mycyberuniverse.com/author.html
  * Version: 1.3
  * License: GPL3
- * Text Domain: anarcho_cfunctions
+ * Text Domain: mcfunctions
  * Domain Path: /languages/
  *
  * Copyright 2014-2015  Arthur "Berserkr" Gareginyan  (email : arthurgareginyan@gmail.com)

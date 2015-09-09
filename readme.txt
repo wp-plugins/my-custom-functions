@@ -114,6 +114,8 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 
 == Changelog ==
+= 1.3 =
+* Minor fixes.
 = 1.2 =
 * Added the syntax highlighting and line numbering.
 = 1.1 =
@@ -129,6 +131,8 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 
 == Upgrade Notice ==
+= 1.3 =
+Please update to new version!
 = 1.2 =
 Added the syntax highlighting and line numbering.
 = 1.1 =
