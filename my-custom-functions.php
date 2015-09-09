@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: My Custom Functions
- * Plugin URI: http://mycyberuniverse.com/my_programs/wp-plugin-my-custom-functions.html ‎
+ * Plugin URI: http://mycyberuniverse.com/my_programs/wp-plugin-my-custom-functions.html
  * Description: EASILY and SAFELY add your own functions, snippets or any custom codes directly out of your WordPress Dashboard without need of an external editor.
  * Author: Arthur "Berserkr" Gareginyan
  * Author URI: http://mycyberuniverse.com/author.html
