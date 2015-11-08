@@ -4,7 +4,7 @@ Tags: code, php, function, snippet, custom, execute, edit, editing, editor, func
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JG3SB73K86FA8
 Requires at least: 3.9
 Tested up to: 4.3
-Stable tag: 1.6
+Stable tag: 1.7
 License: GPL3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -117,6 +117,12 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 
 == Changelog ==
+= 1.7 =
+* The stylesheet of plugin's page moved to separate file.
+* The javascript from settings_page.php moved to separate file.
+* Textdomain changed to "mcfunctions".
+* Changed the style of title in plugin's page.
+* The LICENSE file are renamed to LICENSE.txt
 = 1.6 =
 * Fixed the issue due to which nothing appears below line 26 until you click below that line.
 * Added “register_setting” for error option.
@@ -143,6 +149,12 @@ Commercial licensing (e.g. for projects that can’t use an open-source license)
 
 
 == Upgrade Notice ==
+= 1.7 =
+* The stylesheet of plugin's page moved to separate file.
+* The javascript from settings_page.php moved to separate file.
+* Textdomain changed to "mcfunctions".
+* Changed the style of title in plugin's page.
+* The LICENSE file are renamed to LICENSE.txt
 = 1.6 =
 * Fixed the issue due to which nothing appears below line 26 until you click below that line.
 * Added “register_setting” for error option.
